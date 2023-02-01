@@ -11,4 +11,4 @@ def coordinate_character(keyinput, board):
             answer[1]+=1
         if i == "down" and answer[1]-1 >= -(row//2):
             answer[1]-=1
-    return answer
+    return answer                                     
