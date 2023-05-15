@@ -4,4 +4,4 @@ def share_remainder():
         t = list(map(int,input().split()))
         print(f'#{test_case} {int(t[0]/t[1])} {t[0]%t[1]}')
 
-share_remainder()
+

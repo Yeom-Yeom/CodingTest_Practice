@@ -4,4 +4,3 @@ def stamp():
     for i in range(T):
         ans+='#'
     print(ans)
-stamp()

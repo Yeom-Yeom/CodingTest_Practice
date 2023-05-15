@@ -5,4 +5,4 @@ def add_N_line():
         ans+=i
     print(ans)
 
-add_N_line()
+

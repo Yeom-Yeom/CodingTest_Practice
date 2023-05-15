@@ -25,3 +25,4 @@ def calendar():
         else:
             print(f'#{test_case} {year}/{month}/{day}')
 calendar()
+
