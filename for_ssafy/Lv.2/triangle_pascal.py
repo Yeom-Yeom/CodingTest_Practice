@@ -14,7 +14,4 @@ def triangle_pascal():
             ans.append(tmp)
         print(f'#{tc} ')
         for i in ans:
-            print(i)
-
-triangle_pascal()
-            
+            print(*i)
