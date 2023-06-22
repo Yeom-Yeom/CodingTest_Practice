@@ -13,3 +13,4 @@ def competition_water_rate():
             print(f'#{tc} {b_fee}')
 
 competition_water_rate()
+

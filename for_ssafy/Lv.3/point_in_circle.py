@@ -10,3 +10,4 @@ def point_in_circle():
         print(f'#{tc} {cnt}')
 
 point_in_circle()
+

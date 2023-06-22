@@ -22,3 +22,4 @@ def go_rc():
         print(f'#{tc} {distance}')
 
 go_rc()
+

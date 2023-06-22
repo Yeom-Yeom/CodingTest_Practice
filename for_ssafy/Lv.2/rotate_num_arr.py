@@ -22,3 +22,4 @@ def rotate_num_arr():
             print("".join(map(str,rot_270[i])), end=" ")
             print()
 rotate_num_arr()
+

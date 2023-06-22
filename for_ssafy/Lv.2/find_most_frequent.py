@@ -8,6 +8,5 @@ def find_most_frequent():
         for a in arr:
                 freq[a] += 1
                 if freq[a] >= freq[mode]: mode = a
-                print(f'#{tc} {mode}')
+        print(f'#{tc} {mode}')
 find_most_frequent()
-

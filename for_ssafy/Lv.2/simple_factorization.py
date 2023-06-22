@@ -24,3 +24,4 @@ def simple_factorization():
         print()
 
 simple_factorization()
+

@@ -10,11 +10,9 @@ def date_calc():
         else:
             ans += (day[date[0]-1]-date[1])
             for i in range(date[0],date[2]-1):
-                print("i", end=" ")
-                print(i)
-                print(day[i])
                 ans += day[i]
             ans += (date[3]+1)
         print(f'#{tc} {ans}')
 
 date_calc()
+

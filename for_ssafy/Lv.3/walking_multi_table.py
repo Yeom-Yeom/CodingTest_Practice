@@ -7,7 +7,7 @@ def walking_multi_table():
         for i in range(1,int(math.sqrt(n))+1):
             if n%i == 0 and cnt > (n//i)+i:
                 cnt = (n//i)+i
-                print(cnt)
         print(f'#{tc} {cnt-2}')
 
 walking_multi_table()
+
